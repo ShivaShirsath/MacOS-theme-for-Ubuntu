@@ -16,4 +16,4 @@ Cursor
 git clone https://github.com/vinceliuice/WhiteSur-cursors.git
 ```
 
-[](@vinceliuice)
+[@](@vinceliuice)
