@@ -5,6 +5,7 @@ sudo apt install git -y
 
 GTK 
 ```bash
+cd ~
 git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
 cd WhiteSur-gtk-theme
 chmod +x *
@@ -12,6 +13,7 @@ chmod +x *
 ```
 Icon
 ```bash
+cd ~
 git clone https://github.com/vinceliuice/WhiteSur-icon-theme.git
 cd WhiteSur-icon-theme
 chmod +x 
@@ -19,6 +21,7 @@ chmod +x
 ```
 Cursor
 ```bash
+cd ~
 git clone https://github.com/vinceliuice/WhiteSur-cursors.git
 cd WhiteSur-cursors
 chmod +x *
