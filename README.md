@@ -16,7 +16,7 @@ Icon
 cd ~
 git clone https://github.com/vinceliuice/WhiteSur-icon-theme.git
 cd WhiteSur-icon-theme
-chmod +x 
+chmod +x *
 ./install.sh -t orange -b --black
 ```
 Cursor
