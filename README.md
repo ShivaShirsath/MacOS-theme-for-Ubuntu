@@ -25,7 +25,7 @@ cd ~
 git clone https://github.com/vinceliuice/WhiteSur-cursors.git
 cd WhiteSur-cursors
 chmod +x *
-bash install.
+bash install.sh
 ```
 
 [@vinceliuice](https://github.com/vinceliuice)
