@@ -29,6 +29,10 @@ bash install.sh
 ```
 Wallpaper
 ```bash
-cd 
+xPWD = $PWD
+mkdir /usr/share/backgrounds
+cd /usr/share/backgrounds
+wget https://raw.githubusercontent.com/ShivaShirsath/MacOS-theme-for-Ubuntu/main/WhiteSur.svg
+cd $xPWD
 ```
 [@vinceliuice](https://github.com/vinceliuice)
