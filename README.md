@@ -27,5 +27,8 @@ cd WhiteSur-cursors
 chmod +x *
 bash install.sh
 ```
-
+Wallpaper
+```bash
+cd 
+```
 [@vinceliuice](https://github.com/vinceliuice)
